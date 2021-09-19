@@ -6,7 +6,7 @@
     "types": "dist/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/EthanJustice/alder.js.git"
+        "url": "git+https://github.com/hvlck/alder.js.git"
     },
     "keywords": [
         "scoped-css"
@@ -18,9 +18,9 @@
     "author": "Ethan Justice",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/EthanJustice/alder.ts/issues"
+        "url": "https://github.com/hvlck/alder.ts/issues"
     },
-    "homepage": "https://github.com/EthanJustice/alder.ts#readme",
+    "homepage": "https://github.com/hvlck/alder.ts#readme",
     "devDependencies": {
         "typedoc": "^0.20.20",
         "typescript": "^4.1.3"

@@ -2,7 +2,7 @@
 
 tiny scoped-css replacement
 
-[Site](https://ethanjustice.github.io/alder.ts/) | [Repository](https://github.com/EthanJustice/alder.ts) | [NPM](https://www.npmjs.com/package/alder.js) | [bundlephobia](https://bundlephobia.com/result?p=alder.js@0.2.1).
+[Site](https://hvlck.github.io/alder.ts/) | [Repository](https://github.com/hvlck/alder.ts) | [NPM](https://www.npmjs.com/package/alder.js) | [bundlephobia](https://bundlephobia.com/result?p=alder.js@0.2.1).
 
 + [Docs](#docs)
 
